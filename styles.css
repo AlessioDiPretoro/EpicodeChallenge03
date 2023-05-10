@@ -1,0 +1,62 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,400;1,600&family=Prata&display=swap');
+        
+        body{
+            margin: 0;
+            font-family: 'Montserrat', sans-serif;
+        }
+        .main-section{
+            padding: 20px;
+        }
+        .image-container{
+            height: 500px;
+            background-position: center center;
+            background-image: url(https://www.abruzzolive.tv/immagini_upload/upload/18lanciano.jpg);
+            background-size: auto;
+            background-repeat: no-repeat;
+        }
+        h1{
+            font-family: 'Prata', serif;
+            font-size: 64px;
+            font-weight: 400;
+            margin-bottom: 0;
+        }
+        h3{
+            font-family: 'Prata', serif;
+            font-size: 24px;
+            font-weight: 400;
+            margin-top: 0;
+            margin-bottom: 0;
+        }
+        a{
+            font-weight: 600;
+            font-style: italic;
+            text-decoration: none;
+        }
+        a:visited {
+            color: 8abcf7;
+            text-decoration: none;
+}
+        h6{
+            padding: 22px;
+            margin-bottom: 0;
+            margin-top: 56px;
+            color: white;
+            border-radius: 6px;
+            background: linear-gradient(270deg, #8abcf7, #4588d9);
+        }
+        .lista01{
+            padding: 0;
+            
+        }
+        
+        .lista01 li{
+            list-style-type: none;
+            padding-top: 6px;
+            padding-bottom: 6px;
+            padding-left: 22px;
+            border: 0;
+            border-bottom: 1px;
+            border-style: solid;
+            border-color: #dfdfdf;
+        }
